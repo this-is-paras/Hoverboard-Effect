@@ -11,6 +11,12 @@ body{
     height: 100vh;
 
 }
+
+h1{
+    color: white;
+    margin-bottom: 580px;
+    text-shadow: 0 0 21px red;
+}
 .container{
     width: 280px;
     height: 500px;
