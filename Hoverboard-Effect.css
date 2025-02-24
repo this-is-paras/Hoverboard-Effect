@@ -11,10 +11,9 @@ body{
     height: 100vh;
 
 }
-
 h1{
     color: white;
-    margin-bottom: 580px;
+    margin-bottom: 580px; 
     text-shadow: 0 0 21px red;
 }
 .container{
