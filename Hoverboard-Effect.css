@@ -9,13 +9,13 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-
 }
 h1{
     color: white;
     margin-bottom: 580px; 
     text-shadow: 0 0 21px red;
 }
+
 .container{
     width: 280px;
     height: 500px;
@@ -24,6 +24,7 @@ h1{
     flex-wrap: wrap;
     flex-direction: column;
 }
+
 .square{
     width: 16px;
     height: 16px;
@@ -33,6 +34,7 @@ h1{
      background-color: #1D1D1D;
     transition: 1s ease-out;
 }
+
 .square:hover{
     transition-duration: 0ms;
 }
